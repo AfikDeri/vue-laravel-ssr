@@ -33,4 +33,25 @@ php artisan key:generate
 npm run watch
 ```
 
+#### Prerequisites
+- v8 version >= 4.6.70
+- PHP version >= 7.0
+- PHP PECL
+- PHP V8js extension
+
+Install V8 on any machine: https://developers.google.com/v8/build
+
+V8js extension installation on linux: https://github.com/lesstif/v8js-rpm
+
+PECL for Mac: https://jason.pureconcepts.net/2012/10/install-pear-pecl-mac-os-x/
+
+PECL for Windows: http://php.net/manual/en/install.pecl.windows.php
+
+PECL on linux: just install php-pear which contains pecl:
+```
+$ wget http://pear.php.net/go-pear.phar
+$ go-pear.phar
+```
+
+
 Good Luck :)
