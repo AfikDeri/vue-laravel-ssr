@@ -1,13 +1,11 @@
 ## Vue.JS & Laravel SSR
 
-[Youtube Tutorial link](https://www.youtube.com/watch?v=cTwQtmFjYkw&list=PLJpBh2VJhy5x0RtRn-qREgP_pdvcFYpPf)
-
 #### [@WeCodeTutorials](https://twitter.com/WeCodeTutorials)
 [![Logo](https://cdn.pbrd.co/images/HdwCut8.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
 
-This is an example project on ewndering a Vue.JS component inside a Laravel application using vue-server-renderer and PHP V8JS extension.
+This is an example project on rendering a Vue.JS component inside a Laravel application using vue-server-renderer and PHP V8JS extension.
 
-This project is made for my youtube tutorial on "Vue.JS and Laravel Server Side Rendering (SSR)".
+This project is made for my youtube tutorial on ["Vue.JS and Laravel Server Side Rendering (SSR)".](https://www.youtube.com/watch?v=cTwQtmFjYkw&list=PLJpBh2VJhy5x0RtRn-qREgP_pdvcFYpPf)
 
 ## get it up and running.
 
